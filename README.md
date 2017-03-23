@@ -25,7 +25,7 @@ npm install react_weather --save
 
 
 ### Quick Example
-This example shows how to use the GenericWeather component.
+This example shows how to use the Weather component.
 The component display static data via props.
 ``` javascript
 import React, { Component } from 'react';
