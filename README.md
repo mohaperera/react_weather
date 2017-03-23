@@ -4,7 +4,7 @@ small react weather component
 ![Alt text](https://raw.githubusercontent.com/mohaperera/react_weather/master/react.PNG?raw=true "React Weather")
 
 # React Weather
-[![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/react-weather)
+[![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/react_weather)
 ![license](https://img.shields.io/badge/license-MIT%20License-green.svg)
  
 
