@@ -1,0 +1,80 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react_weather",
+        "scope": null,
+        "escapedName": "react_weather",
+        "name": "react_weather",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\wamp64\\www\\app30"
+    ]
+  ],
+  "_from": "react_weather@latest",
+  "_id": "react_weather@1.0.10",
+  "_inCache": true,
+  "_location": "/react_weather",
+  "_nodeVersion": "6.9.5",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react_weather-1.0.10.tgz_1490211311223_0.7827441103290766"
+  },
+  "_npmUser": {
+    "name": "npm.mperera.user",
+    "email": "mohaperera@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react_weather",
+    "scope": null,
+    "escapedName": "react_weather",
+    "name": "react_weather",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/react_weather/-/react_weather-1.0.10.tgz",
+  "_shasum": "ab269e04e176d1ac38bc61ad0e29abf421b670fd",
+  "_shrinkwrap": null,
+  "_spec": "react_weather",
+  "_where": "C:\\wamp64\\www\\app30",
+  "author": {
+    "name": "Mohan  Perera"
+  },
+  "dependencies": {
+    "axios": "^0.15.3",
+    "install": "^0.8.7",
+    "material-ui": "^0.17.1",
+    "npm": "^4.4.1",
+    "react-dom": "^15.4.2"
+  },
+  "description": "",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "ab269e04e176d1ac38bc61ad0e29abf421b670fd",
+    "tarball": "https://registry.npmjs.org/react_weather/-/react_weather-1.0.10.tgz"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "npm.mperera.user",
+      "email": "mohaperera@gmail.com"
+    }
+  ],
+  "name": "react_weather",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.14"
+}
